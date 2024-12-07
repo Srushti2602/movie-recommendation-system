@@ -1,7 +1,7 @@
 # movie-recommendation-system
 
 Movie Recommendation System Using Neural Collaborative Filtering (NCF)
-
+![Alt Text](iamges/output1.png)
 Welcome to the Movie Recommendation System project! This is designed to recommend movies to users based on their ratings and preferences. The project leverages Neural Collaborative Filtering (NCF) for recommendation generation and integrates Big Data frameworks like PySpark and Dask for efficient data handling and visualization.
 
 Project Description
